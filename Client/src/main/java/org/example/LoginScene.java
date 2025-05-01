@@ -13,7 +13,7 @@ import javafx.scene.text.Text;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-
+/*
 public class LoginScene {
 
     public static Button loginButton = new Button("登录");
@@ -99,4 +99,4 @@ public class LoginScene {
                 BackgroundRepeat.NO_REPEAT, BackgroundPosition.DEFAULT, backgroundSize);
         return new Background(backgroundImage);
     }
-}
+}*/

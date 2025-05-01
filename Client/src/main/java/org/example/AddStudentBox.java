@@ -8,7 +8,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
-
+/*
 public class AddStudentBox {
     private static final String[]  AddTitle = {"姓名","学号","密码","班级","语文成绩","数学成绩","英语成绩","物理成绩","化学成绩","生物成绩"};
     public static TextField[] label = new TextField[10];
@@ -63,4 +63,4 @@ public class AddStudentBox {
         }
         return text.getText();
     }
-}
+}*/

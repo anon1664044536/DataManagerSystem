@@ -5,7 +5,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
-
+/*
 public class ChangeStudent {
     private static final String[] ChangeTitle = {"姓名","密码","班级","语文成绩","数学成绩","英语成绩","物理成绩","化学成绩","生物成绩"};
 
@@ -42,3 +42,4 @@ public class ChangeStudent {
         return changeBox;
     }
 }
+*/

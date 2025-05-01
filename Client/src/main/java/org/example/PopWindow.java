@@ -2,7 +2,7 @@ package org.example;
 
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
-
+/*
 public class PopWindow {
 
     static public void showInfoAlert(String title,String content) {
@@ -21,3 +21,4 @@ public class PopWindow {
         alert.showAndWait();
     }
 }
+*/

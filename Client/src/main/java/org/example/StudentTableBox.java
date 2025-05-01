@@ -7,7 +7,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 
 import java.util.List;
-
+/*
 public class StudentTableBox {
     static public TableView<Student> getStudentTable(List<Student> studentList){
         TableView<Student> studentTable = new TableView<>();
@@ -48,3 +48,4 @@ public class StudentTableBox {
         return studentTable;
     }
 }
+*/

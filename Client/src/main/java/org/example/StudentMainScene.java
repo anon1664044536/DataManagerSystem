@@ -12,7 +12,7 @@ import javafx.scene.text.Font;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
 public class StudentMainScene {
     //学生管理选择框
     private static final ChoiceBox<String> studentChoice = creatChoiceBox(DataManager.StudentProject);
@@ -106,3 +106,4 @@ public class StudentMainScene {
         return choiceBox;
     }
 }
+*/

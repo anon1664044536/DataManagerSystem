@@ -11,7 +11,7 @@ import javafx.scene.layout.StackPane;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
-
+/*
 public class PaintingBox {
     static public BarChart<String, Number> createHistogram(List<Integer> scoreList,String chartTitle) {
         // 使用 TreeMap 统计每个分数段的频率
@@ -67,3 +67,4 @@ public class PaintingBox {
         return rangeStart + "-" + rangeEnd;
     }
 }
+*/

@@ -5,7 +5,18 @@ import javafx.application.Platform;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 import java.io.IOException;
+import java.sql.SQLException;
 
+import org.example.TchStuManager;
+
+public class Main{
+    public static void main(String[] args) throws SQLException {
+        TchStuManager tchStuManager = new TchStuManager("T001");
+        tchStuManager.printInfo();
+    }
+}
+
+/*
 public class Main extends Application {
     @Override
     public void start(Stage stage) throws Exception {
@@ -63,3 +74,4 @@ public class Main extends Application {
         Application.launch();
     }
 }
+*/

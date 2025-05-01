@@ -4,7 +4,7 @@ import javafx.geometry.Rectangle2D;
 import javafx.stage.Screen;
 
 import java.io.IOException;
-
+/*
 public class DataManager {
     public static double StageWidth;
     public static double StageHeight;
@@ -46,3 +46,5 @@ public class DataManager {
         StageHeight = bounds.getHeight();
     }
 }
+
+ */
